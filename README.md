@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Application bootstraped with Next JS create-next-app module as per the instructions on the page https://tailwindcss.com/docs/guides/nextjs
+
+Installed Tailwind CSS
+
+Intalled Preline UI as per instructions here https://preline.co/docs/index.html
+
+
+
 First, run the development server:
 
 ```bash
